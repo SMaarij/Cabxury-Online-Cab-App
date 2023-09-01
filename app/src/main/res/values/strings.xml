@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Cabxury</string>
+    <string name="title_activity_drivers_maps">DriversMapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="spinner_items">
+        <item>Credit Card</item>
+        <item>Cash</item>
+        <item>EasyPaisa</item>
+    </string-array>
+    <string-array name="spinner_items2">
+        <item>Car(Sports)</item>
+        <item>Cabxury(Royal)</item>
+        <item>Car (Mini_AC)</item>
+        <item>Car (Mini)</item>
+
+    </string-array>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="accept_your_ride">Accept your ride</string>
+</resources>
+
